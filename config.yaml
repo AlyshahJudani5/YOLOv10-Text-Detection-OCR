@@ -1,0 +1,8 @@
+names:
+- name(ur)
+- fathername(ur)
+- address(ur)
+nc: 3
+path: /content/data 
+train: images/train
+val: images/val
