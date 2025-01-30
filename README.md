@@ -1,0 +1,1 @@
+# YOLOv10-Text-Detection-OCR
